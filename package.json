@@ -2,7 +2,24 @@
   "name": "darkyellow",
   "displayName": "DarkYellow",
   "description": "A very good theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "publisher": "ImBanana",
+  "author": {
+    "name": "Im_Banana"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImBonana/DarkYellow"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "Im_Banana",
+    "yellow",
+    "DarkYellow",
+    "ImBanana"
+  ],
   "engines": {
     "vscode": "^1.81.0"
   },
