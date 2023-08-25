@@ -1,0 +1,21 @@
+{
+  "name": "darkyellow",
+  "displayName": "DarkYellow",
+  "description": "A very good theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Yellow-color-theme.json"
+      }
+    ]
+  }
+}
